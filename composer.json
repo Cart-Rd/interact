@@ -14,7 +14,7 @@
 
   "require": {
     "vesperphp/elemental": "0.*"
-  },
+  }
 
 
 }
